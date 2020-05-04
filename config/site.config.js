@@ -9,16 +9,16 @@ if (!ROOT) {
 
 const config = {
   // Your website's name, used for favicon meta tags
-  site_name: 'Static Site Boilerplate',
+  site_name: 'Pulse Control',
 
   // Your website's description, used for favicon meta tags
-  site_description: 'A modern boilerplate for static website development',
+  site_description: 'PULSE CONTROL: Upcoming Swiss online record store specialized in electronic dance music such as house and techno.',
 
   // Your website's URL, used for sitemap
-  site_url: 'http://staticsiteboilerplate.com',
+  site_url: 'http://ww.pulsecontrol.ch',
 
   // Google Analytics tracking ID (leave blank to disable)
-  googleAnalyticsUA: '',
+  googleAnalyticsUA: 'UA-133543411-2',
 
   // The viewport meta tag added to your HTML page's <head> tag
   viewport: 'width=device-width,initial-scale=1',
